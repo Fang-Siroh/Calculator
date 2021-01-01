@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kyon9\\source\\repos\\BlankApp1\\BlankApp1\\BlankApp1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kyon9\\source\\repos\\BlankApp1\\BlankApp1\\BlankApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kyon9\\source\\repos\\BlankApp1\\BlankApp1\\BlankApp1.csproj",
+        "projectName": "BlankApp1",
+        "projectPath": "C:\\Users\\kyon9\\source\\repos\\BlankApp1\\BlankApp1\\BlankApp1.csproj",
+        "packagesPath": "C:\\Users\\kyon9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kyon9\\source\\repos\\BlankApp1\\BlankApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\kyon9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Prism.Unity": {
+              "target": "Package",
+              "version": "[8.0.0.1909, )"
+            },
+            "ReactiveProperty": {
+              "target": "Package",
+              "version": "[7.5.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
